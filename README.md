@@ -1,6 +1,4 @@
 # notesApp
-python, React, HarperDB
-<video width="640" height="480" controls>
-	<source src="demo/demo.mp4" type="video/mp4; codecs='avc1.42E01E, mp4a.40.2'">
-	</source><source src="video.ogv" type="video/ogg; codecs='theora, vorbis'">
-</source></video>
+python, React, HarperDB<br>
+<img src="demo/demo1.jpg" alt="notesApp" height="250px">
+<img src="demo/demo2.jpg" alt="notesApp" height="250px">
