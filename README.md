@@ -1,3 +1,3 @@
 # notesApp
 python, React, HarperDB
-<img src="demo/demo1.png" alt="notesApp" width="550px">
+<img src="demo/demo1.jpg" alt="notesApp" width="550px">
