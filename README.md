@@ -1,0 +1,2 @@
+# notesApp
+python, React, HarperDB
